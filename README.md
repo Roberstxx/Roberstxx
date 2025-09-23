@@ -1,34 +1,15 @@
-<p align="center">
-  <svg width="860" height="140" viewBox="0 0 860 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="¡Hola! Soy Roberstxx">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#4F46E5"/>
-        <stop offset="100%" stop-color="#9333EA"/>
-      </linearGradient>
+<div align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531845129/4308/blob-wave.gif?1531845129" width="60" />
 
-      <clipPath id="reveal">
-        <rect id="r" x="40" y="40" width="0" height="60" rx="4" ry="4">
-          <animate attributeName="width" from="0" to="780" dur="3.0s" fill="freeze" begin="0.1s"/>
-        </rect>
-      </clipPath>
-    </defs>
+  # ¡Hola! Soy **Roberstxx** 👋
 
-    <g clip-path="url(#reveal)">
-      <text x="40" y="84" font-size="48" font-weight="700" fill="url(#grad)">¡Hola! Soy Roberstxx</text>
-    </g>
+  **Desarrollador en formación** · Web · Python · Datos
 
-    <rect x="40" y="48" width="3" height="44" fill="#7C3AED">
-      <animate attributeName="x" from="40" to="820" dur="3.0s" fill="freeze" begin="0.1s"/>
-      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-    </rect>
-
-    <text x="40" y="116" font-size="16" font-weight="600" fill="#475569">Desarrollador en formación · Web · Python · Datos</text>
-  </svg>
-</p>
+</div>
 
 ---
 
-Soy un desarrollador en formación, con muchas ganas de crecer. Actualmente estoy aprendiendo desarrollo web, Python y bases de datos, pero también me interesan áreas como la seguridad informática, la inteligencia artificial y el análisis de datos.
+Soy un desarrollador en formación con muchas ganas de crecer. Actualmente estoy aprendiendo desarrollo web, Python y bases de datos, pero también me interesan áreas como la seguridad informática, la inteligencia artificial y el análisis de datos.
 
 Aquí comparto proyectos que reflejan mi camino de aprendizaje. Algunos están en proceso; otros son ideas que voy puliendo con el tiempo. Me interesa crear soluciones útiles, entender cómo funcionan las cosas por dentro y escribir código que tenga sentido, incluso si todavía estoy aprendiendo a hacerlo mejor cada día.
 
@@ -38,47 +19,27 @@ Este perfil no es una vitrina perfecta: es una bitácora de lo que voy aprendien
 
 ---
 
-<p align="center">
-  <svg width="860" height="260" viewBox="0 0 860 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Herramientas que estoy aprendiendo">
-    <defs>
-      <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
-        <feGaussianBlur stdDeviation="6" result="blur"/>
-        <feMerge>
-          <feMergeNode in="blur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
+### 🛠️ Herramientas que estoy aprendiendo
 
-    <rect x="12" y="12" width="836" height="236" rx="16" ry="16" fill="#ffffff"/>
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  </p>
+</div>
 
-    <rect x="12" y="12" width="836" height="236" rx="16" ry="16"
-          fill="none" stroke="#7C3AED" stroke-width="6" opacity="0.35" filter="url(#glow)"
-          stroke-dasharray="2300" stroke-dashoffset="2300">
-      <animate attributeName="stroke-dashoffset" from="2300" to="0" dur="2.2s" fill="freeze" begin="0.2s"/>
-    </rect>
+---
 
-    <rect x="12" y="12" width="836" height="236" rx="16" ry="16"
-          fill="none" stroke="#6D28D9" stroke-width="3"
-          stroke-dasharray="2300" stroke-dashoffset="2300">
-      <animate attributeName="stroke-dashoffset" from="2300" to="0" dur="2.2s" fill="freeze" begin="0.2s"/>
-    </rect>
+### 📚 En camino
 
-    <text x="32"  y="56" font-size="20" font-weight="700" fill="#0F172A">🔧 Herramientas que estoy aprendiendo</text>
-    <text x="520" y="56" font-size="20" font-weight="700" fill="#0F172A">📚 En camino</text>
-
-    <text x="52" y="92"  font-size="16" fill="#1F2937">• HTML, CSS, JavaScript</text>
-    <text x="52" y="120" font-size="16" fill="#1F2937">• Python y Tkinter</text>
-    <text x="52" y="148" font-size="16" fill="#1F2937">• Git y GitHub</text>
-    <text x="52" y="176" font-size="16" fill="#1F2937">• Bases de datos (MongoDB, SQL)</text>
-    <text x="52" y="204" font-size="16" fill="#1F2937">• Diseño responsivo e interfaces</text>
-
-    <text x="520" y="92"  font-size="16" fill="#64748B">• Frameworks web</text>
-    <text x="520" y="120" font-size="16" fill="#64748B">• Seguridad informática</text>
-    <text x="520" y="148" font-size="16" fill="#64748B">• Análisis de datos + IA</text>
-    <text x="520" y="176" font-size="16" fill="#64748B">• Y mucho más…</text>
-  </svg>
-</p>
+- 🌐 Frameworks web (Django, Flask, React)
+- 🔒 Seguridad informática
+- 🤖 Análisis de datos + IA
 
 ---
 
