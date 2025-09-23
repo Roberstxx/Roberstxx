@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531845129/4308/blob-wave.gif?1531845129" width="60" />
 
-  <img src="https://raw.githubusercontent.com/Roberstxx/Roberstxx/main/roberstxx-logooo.gif" alt="¡Hola! Soy Roberstxx" width="500"/>
+  <img src="https://raw.githubusercontent.com/Roberstxx/Roberstxx/main/roberstxx-logooo2.gif" alt="¡Hola! Soy Roberstxx" width="500"/>
 
   **Desarrollador en formación** · Web · Python · Datos
 
