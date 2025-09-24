@@ -44,45 +44,42 @@ Este perfil no es una vitrina perfecta: es una bitácora de lo que voy aprendien
 <div align="center">
 
 <!-- Streak de commits -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Robertstxx&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Roberstxx&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
 
-<!-- Stats y lenguajes principales -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Robertstxx&show_icons=true&theme=gotham#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robertstxx&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
-</a>
+<!-- Stats generales -->
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=Roberstxx&show_icons=true&theme=gotham" />
+
+<!-- Lenguajes principales -->
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberstxx&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham" />
 
 </div>
 
 ---
 
 ### 🐍 Snake de contribuciones
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Robertstxx/Robertstxx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Robertstxx/Robertstxx/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Robertstxx/Robertstxx/output/github-contribution-grid-snake.svg">
-</picture>
+> **Nota:** Para que funcione, debes configurar GitHub Actions con el archivo `generate-snake.yml`.  
+> Este archivo generará la animación automáticamente.
 
----
+```yaml
+name: Generate Snake
 
-### 🏆 Trofeos
-[![trophy](https://github-profile-trophy.vercel.app/?username=Robertstxx&theme=gruvbox&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
 
----
-
-### 🌟 Contador de visitas
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Robertstxx&color=brightgreen" alt="Profile views"/>
-</p>
-
----
-
-Si pasas por aquí y ves algo que te gusta (o algo que podría mejorar), ¡siéntete libre de dejar feedback! 🙌
-
-<div align="center">
-  Hecho con ❤️ por <b>Robertstxx</b><br>
-  Última edición: 23/09/2025
-</div>
-
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Roberstxx
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
