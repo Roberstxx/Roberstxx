@@ -1,22 +1,24 @@
 name: Generate Snake
 
 on:
-  schedule: [{ cron: "0 0 * * *" }]  # se genera diario
-  workflow_dispatch:                  # permite correrlo manualmente
+  schedule: [{ cron: "0 0 * * *" }]  # Ejecuta automáticamente cada día a medianoche
+  workflow_dispatch:                  # Permite ejecutarlo manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: Roberstxx
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Deploy to output branch
+
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
