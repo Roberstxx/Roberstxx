@@ -1,46 +1,86 @@
+<!-- ==================== Header ==================== -->
 <div align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531845129/4308/blob-wave.gif?1531845129" width="60" />
+  <h2>👋 ¡Hola! Soy <b>Robertstxx</b> <img src="https://raw.githubusercontent.com/hhpr98/hhpr98/main/gif/Hi.gif" width="30px"></h2>
+  <img src="https://raw.githubusercontent.com/hhpr98/hhpr98/main/gif/welcometext.gif" alt="Welcome!" width="320"/>
+</div>
 
-  <img src="https://raw.githubusercontent.com/Roberstxx/Roberstxx/main/roberstxx-logooo2.gif" alt="¡Hola! Soy Roberstxx" width="500"/>
+<!-- ==================== Redes ==================== -->
+<p align="center">
+  <a href="https://twitter.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" height="20" width="20" /></a>&nbsp;
+  <a href="https://www.linkedin.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="20" width="20" /></a>&nbsp;
+  <a href="https://www.youtube.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" height="20" width="20" /></a>&nbsp;
+  <a href="https://github.com/Robertstxx" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="20" width="20" /></a>&nbsp;
+  <a href="https://facebook.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" height="20" width="20" /></a>
+</p>
 
-  **Desarrollador en formación** · Web · Python · Datos
+<!-- Línea/loader decorativa -->
+<p align="center"><img src="https://raw.githubusercontent.com/hhpr98/hhpr98/main/gif/barloading.gif" width="60%"></p>
 
+<!-- ==================== Sobre mí ==================== -->
+### 🤵 Sobre mí
+- 🚀 Desarrollador en formación (Web • Python • Bases de datos).
+- 💬 Trabajo con **JavaScript/TypeScript, React, HTML, CSS**; aprendiendo **Python/Tkinter**.
+- 🧠 Intereses: **IA**, **seguridad**, **análisis de datos**.
+- 📝 Dime hola en mis redes o abre un issue en este repo.
+
+---
+
+<!-- ==================== Stats ==================== -->
+<table border="0" align="center">
+<tr>
+<td width="50%" align="center">
+
+  <!-- GitHub Readme Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Robertstxx&theme=github_dark&show_icons=true&count_private=true" alt="Stats"/>
+
+  <br/><br/>
+
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=Robertstxx&theme=dark&hide_border=true" alt="Streak"/>
+</td>
+<td width="50%" align="center">
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robertstxx&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Top Langs"/>
+</td>
+</tr>
+</table>
+
+<p align="center"><img src="https://raw.githubusercontent.com/hhpr98/hhpr98/main/gif/barloading.gif" width="60%"></p>
+
+<!-- ==================== Trofeos ==================== -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Profile Trophies">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Robertstxx&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="trophies"/>
+  </a>
 </div>
 
 ---
 
-Soy un desarrollador en formación con muchas ganas de crecer. Actualmente estoy aprendiendo desarrollo web, Python y bases de datos, pero también me interesan áreas como la seguridad informática, la inteligencia artificial y el análisis de datos.
-
-Aquí comparto proyectos que reflejan mi camino de aprendizaje. Algunos están en proceso; otros son ideas que voy puliendo con el tiempo. Me interesa crear soluciones útiles, entender cómo funcionan las cosas por dentro y escribir código que tenga sentido, incluso si todavía estoy aprendiendo a hacerlo mejor cada día.
-
-También estoy explorando diseño de interfaces, automatización, organización de horarios y cómo usar la programación para resolver problemas reales.
-
-Este perfil no es una vitrina perfecta: es una bitácora de lo que voy aprendiendo, construyendo y soñando. 🚀
+<!-- ==================== Gráfico de actividad ==================== -->
+<!-- Nota: usamos el host activo github-readme-activity-graph.vercel.app -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robertstxx&theme=github-compact&custom_title=Actividad%20reciente&hide_border=true" alt="Activity Graph"/>
+</p>
 
 ---
 
-### 🛠️ Herramientas que estoy aprendiendo
-
+<!-- ==================== Contador de visitas ==================== -->
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
+  <h3><b>📍 Visitantes</b></h3>
+  <img src="https://profile-counter.glitch.me/Robertstxx/count.svg" />
 </div>
 
 ---
 
-### 📚 En camino
-
-- 🌐 Frameworks web (Django, Flask, React)
-- 🔒 Seguridad informática
-- 🤖 Análisis de datos + IA
+<div align="center">
+  Has llegado a mi perfil. <br/>
+  Siéntete libre de forkar, abrir issues y PRs si crees que algo puede mejorar. <br/>
+  Pregúntame lo que quieras <a href="https://github.com/Robertstxx/Robertstxx/issues/new"><b>aquí</b></a> o <a href="mailto:tu_correo@ejemplo.com"><b>escríbeme</b></a>.
+  <br/><br/><i>¡Happy coding! 😊</i>
+</div>
 
 ---
 
-Si pasas por aquí y ves algo que te gusta (o algo que podría mejorar), ¡siéntete libre de dejar feedback! 🙌
+<!-- Créditos opcionales -->
+<!-- Basado en ideas de hhpr98, anuraghazra (github-readme-stats), DenverCoder1 (streak-stats), ryo-ma (profile-trophy). -->
