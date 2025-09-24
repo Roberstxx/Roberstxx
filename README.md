@@ -1,7 +1,7 @@
 <!-- ==================== Header ==================== -->
 <div align="center">
   <h2>👋 ¡Hola! Soy <b>Robertstxx</b> <img src="https://raw.githubusercontent.com/hhpr98/hhpr98/main/gif/Hi.gif" width="30px"></h2>
-  <img src="https://raw.githubusercontent.com/hhpr98/hhpr98/main/gif/welcometext.gif" alt="Welcome!" width="320"/>
+  <img src="https://raw.githubusercontent.com/hhpr98/hhpr98/main/gif/roberstxx-logooo2.gif" alt="Welcome!" width="320"/>
 </div>
 
 <!-- ==================== Redes ==================== -->
