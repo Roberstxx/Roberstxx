@@ -43,13 +43,10 @@ Este perfil no es una vitrina perfecta: es una bitácora de lo que voy aprendien
 ### 📊 Estadísticas de GitHub
 <div align="center">
 
-<!-- Streak de commits -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Roberstxx&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
 
-<!-- Stats generales -->
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=Roberstxx&show_icons=true&theme=gotham" />
 
-<!-- Lenguajes principales -->
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberstxx&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham" />
 
 </div>
@@ -57,29 +54,29 @@ Este perfil no es una vitrina perfecta: es una bitácora de lo que voy aprendien
 ---
 
 ### 🐍 Snake de contribuciones
-> **Nota:** Para que funcione, debes configurar GitHub Actions con el archivo `generate-snake.yml`.  
-> Este archivo generará la animación automáticamente.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roberstxx/Roberstxx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Roberstxx/Roberstxx/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Roberstxx/Roberstxx/output/github-contribution-grid-snake.svg">
+</picture>
 
-```yaml
-name: Generate Snake
+---
 
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
+### 🏆 Trofeos
+[![trophy](https://github-profile-trophy.vercel.app/?username=Roberstxx&theme=gruvbox&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Roberstxx
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          personal_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+---
+
+### 🌟 Contador de visitas
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Roberstxx&color=brightgreen" alt="Profile views"/>
+</p>
+
+---
+
+Si pasas por aquí y ves algo que te gusta (o algo que podría mejorar), ¡siéntete libre de dejar feedback! 🙌
+
+<div align="center">
+  Hecho con ❤️ por <b>Roberstxx</b><br>
+  Última edición: 23/09/2025
+</div>
