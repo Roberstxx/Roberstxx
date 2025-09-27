@@ -116,7 +116,7 @@ Este perfil no es una vitrina perfecta: es una bitácora de lo que voy aprendien
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Invítame un café" width="200">
   </a>
 </div>
----
+
 <div align="center">
   Hecho con ❤️ por <b>Roberstxx</b><br>
   Última edición: 23/09/2025
