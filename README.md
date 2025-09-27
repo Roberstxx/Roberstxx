@@ -16,7 +16,6 @@ También estoy explorando diseño de interfaces, automatización, organización 
 
 Este perfil no es una vitrina perfecta: es una bitácora de lo que voy aprendiendo, construyendo y soñando. 🚀
 
----
 
 ### 🛠️ Herramientas que estoy aprendiendo
 <div align="center">
@@ -51,7 +50,7 @@ Este perfil no es una vitrina perfecta: es una bitácora de lo que voy aprendien
 </div>
 
 
----
+
 
 ### 📚 En camino
 - 🌐 Frameworks web (Django, Flask, React)
