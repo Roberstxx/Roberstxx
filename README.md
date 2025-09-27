@@ -41,7 +41,7 @@ Este perfil no es una vitrina perfecta: es una bitácora de lo que voy aprendien
     </a>
   </p>
 </div>
----
+
 
 
 
