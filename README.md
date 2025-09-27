@@ -48,6 +48,8 @@ Este perfil no es una vitrina perfecta: es una bitácora de lo que voy aprendien
       <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     </a>
   </p>
+</div>
+
 
 ---
 
