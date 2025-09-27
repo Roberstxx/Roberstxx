@@ -109,8 +109,14 @@ Este perfil no es una vitrina perfecta: es una bitácora de lo que voy aprendien
 
 ---
 
-Si pasas por aquí y ves algo que te gusta (o algo que podría mejorar), ¡siéntete libre de dejar feedback! 🙌
+### Si pasas por aquí y ves algo que te gusta (o algo que podría mejorar), ¡siéntete libre de dejar feedback! 🙌
 
+<div align="center">
+  <a href="https://buymeacoffee.com/roberstxx">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Invítame un café" width="200">
+  </a>
+</div>
+---
 <div align="center">
   Hecho con ❤️ por <b>Roberstxx</b><br>
   Última edición: 23/09/2025
