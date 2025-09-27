@@ -42,10 +42,7 @@ Este perfil no es una vitrina perfecta: es una bitácora de lo que voy aprendien
   </p>
 </div>
 
-
-
-
-
+---
 ### 📚 En camino
 - 🌐 Frameworks web (Django, Flask, React)
 - 🔒 Seguridad informática
